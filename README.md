@@ -1,4 +1,4 @@
-# Desafio DIO: Ataques de Força Bruta com Medusa e Kali Linux
+# Desafio DIO: Ataques de Força Bruta com Medusa e Kali Linux 
 
 ## Introdução
 Este projeto documenta a execução de ataques de força bruta utilizando o Kali Linux e a ferramenta Medusa, simulando cenários em diferentes serviços para demonstrar a compreensão de técnicas de cibersegurança e medidas de prevenção.
